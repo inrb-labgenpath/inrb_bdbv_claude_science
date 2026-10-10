@@ -1,0 +1,3 @@
+saved state tried: runs/beast_A_C00/beast_A_C00_s64004/beast_A_C00_s64004.state (SHA-256 c3ca34a49249a210f64cfcefe2b4a631e83160e36ae345a32fd6f47db047ba03); state 39500000; the part before was ended at state 39580000
+state of the checkpoint 39500000; chain length of the XML of the continuation 500000; length of the chain 40000000
+difference of the log-likelihoods 3.201421e-10

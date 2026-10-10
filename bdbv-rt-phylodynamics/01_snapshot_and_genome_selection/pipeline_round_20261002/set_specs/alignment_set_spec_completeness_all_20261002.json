@@ -1,0 +1,10 @@
+{
+ "primary": "C90",
+ "neutral_wording": true,
+ "sets": {
+  "C95": {"dated": true, "min_completeness": 0.95, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "C90": {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "C80": {"dated": true, "min_completeness": 0.8, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "C00": {"dated": true, "min_completeness": null, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"}
+ }
+}

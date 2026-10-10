@@ -1,0 +1,64 @@
+category,item,version,version_source,environment,path,sha256,size_bytes,note
+program,Delphy (programs/delphy_1.4.1/bin/delphy),"1.4.1 (build 2056, commit 1e8d4a9)",delphy --version,,programs/delphy_1.4.1/bin/delphy,a3c810eda8874cc799553a30a137f7df5da1decc8edcb68746797230c2f9a1dd,5486768,
+program,Delphy MCC (programs/delphy_1.4.1/bin/delphy_mcc),"1.4.1 (build 2056, commit 1e8d4a9)",delphy_mcc --version,,programs/delphy_1.4.1/bin/delphy_mcc,8248b9eabab52a5907d10d1d26f07007b00e829ae66e509adaa76e1ac8efc691,5406288,
+program,BEAST X (launcher bin/beast),v10.5.0,beast -version,beast,<environment beast>/bin/beast,270d2a94a3b9dfb304629c28bc822b361ae10a06ab3831687275a28a5b467582,688,
+program,BEAST X (lib/beast.jar),v10.5.0,beast -version,beast,<environment beast>/lib/beast.jar,df11dea1d7118ff1570ad687621912b776fb683c5023333f3dbf2bc762ee136d,12262630,
+program,"BEAST X (treeannotator, launcher)",v10.5.0,same distribution as bin/beast (conda package beast),beast,<environment beast>/bin/treeannotator,7ca2541141d0d1ac961baafcb38f57de2fac8ae97193a12b27d79079d2f6099f,612,
+program,"BEAST X (loganalyser, launcher)",v10.5.0,same distribution as bin/beast (conda package beast),beast,<environment beast>/bin/loganalyser,eb721c5bf3aa5c8d1f3945b6534dab12ca9f83cce5903db4d4eff9270fd0b4da,596,
+program,"BEAST X (logcombiner, launcher)",v10.5.0,same distribution as bin/beast (conda package beast),beast,<environment beast>/bin/logcombiner,dc1474ebec6826764c351d725bcba2b3e36fec898be2b476cc990a7c0cd39174,608,
+library,BEAGLE (libhmsbeagle-cpu-sse.so.40.0.0),v4.0.1 (PRE-RELEASE),beast -beagle_info,beast,<environment beast>/lib/libhmsbeagle-cpu-sse.so.40.0.0,f5a09720c7c10c9886016afada0267f850281a8b3d2c45f9b17722d11857a75a,2711048,resources reported: 0 : CPU (x86_64)
+library,BEAGLE (libhmsbeagle-cpu.so.40.0.0),v4.0.1 (PRE-RELEASE),beast -beagle_info,beast,<environment beast>/lib/libhmsbeagle-cpu.so.40.0.0,2b0ad5e6660b8d0ca87af075654682d1dfc2ae746148846c5104352da2283b1d,2727336,resources reported: 0 : CPU (x86_64)
+library,BEAGLE (libhmsbeagle-jni.so),v4.0.1 (PRE-RELEASE),beast -beagle_info,beast,<environment beast>/lib/libhmsbeagle-jni.so,0ad9956b45b57f9a479b1dcf279daf66888e35e029b0ff0d1829fcfe28ce15da,182608,resources reported: 0 : CPU (x86_64)
+library,BEAGLE (libhmsbeagle.so.1),v4.0.1 (PRE-RELEASE),beast -beagle_info,beast,<environment beast>/lib/libhmsbeagle.so.1,48699dc306b627d3c43ea980ed8b310e0e59d1567294944c93ecb1a0f5491076,905296,resources reported: 0 : CPU (x86_64)
+program,Java runtime (bin/java),25.0.2-internal,java -version,beast,<environment beast>/bin/java,c186e45e71e9ea1fed3c76d0758c160cc8ebb97dbbb575187139fd004ea553df,16152,resolves to <environment beast>/lib/jvm/bin/java
+program,IQ-TREE (bin/iqtree),3.1.2,iqtree --version,beast,<environment beast>/bin/iqtree,81ac8d1c6c7765d9942e9d9e3e0b1d5078547f1e00a7751c3a109d19cb11c935,12910944,resolves to <environment beast>/bin/iqtree3
+program,IQ-TREE (bin/iqtree3),3.1.2,iqtree3 --version,beast,<environment beast>/bin/iqtree3,81ac8d1c6c7765d9942e9d9e3e0b1d5078547f1e00a7751c3a109d19cb11c935,12910944,
+program,"MAFFT (bin/mafft, launcher script)",v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/bin/mafft,04cea150f63ca15ce9ffd9044669b3645079fc775594de3eab380b3d47dec4df,109813,
+program,MAFFT (libexec/mafft/addsingle),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/addsingle,08a53c8a8110ba76d190e5fba3c72310be3027a1ae905606b2fba4552df1744e,391296,
+program,MAFFT (libexec/mafft/contrafoldwrap),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/contrafoldwrap,d9b865d2a9d964a6050fdcf92bb6b039b3bad3eccdd9bb99e210f0d16bea1087,92144,
+program,MAFFT (libexec/mafft/countlen),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/countlen,b30354dd5216d96e1c01a0b443cfc98030007359c89076f77d45a887b4c09453,22616,
+program,MAFFT (libexec/mafft/dash_client),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/dash_client,c32b88b31c42027fca12f970b2b72cf6154a2935e27dac2f921ea82cc898a0ea,5226616,
+program,MAFFT (libexec/mafft/disttbfast),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/disttbfast,3fb5bc73b62596f5075ceeedf26c7d1b9b2fda7cc2c6109eaa020503680e4761,436352,
+program,MAFFT (libexec/mafft/dndblast),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/dndblast,430f924349d503d6f7e89ed5ca3b9da4f7f677a9d6c6986f3d7bf1a7e644b85b,100336,
+program,MAFFT (libexec/mafft/dndfast7),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/dndfast7,6cf7282072f7fee48160d5b6d5d70d7826947b47a4f645eda1b75602a276b2ab,100336,
+program,MAFFT (libexec/mafft/dndpre),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/dndpre,82a3ae0dc6e9f8b145a7fcb415c2a7158f7fb2a35202b63c8bb014298dd57159,100336,
+program,MAFFT (libexec/mafft/dvtditr),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/dvtditr,aa5dd2aad0ec8d19ddf24576133225d1ce8778f06bbca2d6a8846a3e4614f297,432256,
+program,MAFFT (libexec/mafft/f2cl),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/f2cl,65d981445017278c9055a2c78c60ad96bed590d0ef07f969e13d7e942d20937c,92144,
+program,MAFFT (libexec/mafft/filter),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/filter,bb10d97aa07dbde22e9b1a05d2c17438bb10e9948a80e5dd82086e55e7cbe9ee,22616,
+program,MAFFT (libexec/mafft/getlag),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/getlag,7117543c19c3121e04736bbf677f66fd832a8d0ffb542d9bd081de407a27364e,202880,
+program,MAFFT (libexec/mafft/hex2maffttext),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/hex2maffttext,082f6cd5d93963cdde35ebab81827c5c8eacc5e50fe49f0dcf25d65120386f62,14328,
+program,MAFFT (libexec/mafft/mafft-distance),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/mafft-distance,7705149f113d553f55181f1b88031c94bfe24c58306816387c14c0286098feb6,92144,
+program,MAFFT (libexec/mafft/mafft-profile),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/mafft-profile,c90183239402dae0f1b214b9880c11ff11eb081c136eb665e96daf2a4ef91082,301184,
+program,MAFFT (libexec/mafft/mafftash_premafft.pl),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/mafftash_premafft.pl,0594ba064e06ad0b647a9927bc73541edd85fd18c09a65c7a5c849b318b93ef9,10475,
+program,MAFFT (libexec/mafft/maffttext2hex),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/maffttext2hex,ebe75e272dae30f7709eee0168a5f2c50db0949ccf2b515e026f2f49fbb6896d,14328,
+program,MAFFT (libexec/mafft/makedirectionlist),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/makedirectionlist,1bd0f60b9927197fa47d7d5719628349e16b7e31883871d8f66d05f72e042645,108616,
+program,MAFFT (libexec/mafft/mccaskillwrap),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/mccaskillwrap,f066d21291a7865953aab67f6d32b7bc1431bf23e7bf14f12224797529fbf64e,96240,
+program,MAFFT (libexec/mafft/multi2hat3s),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/multi2hat3s,5f794d89df5d6ffb4be499046f3ee825850c2660808fcce91186431b2e325f1f,100336,
+program,MAFFT (libexec/mafft/nodepair),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/nodepair,959c31362c9d86d600b3ed58f2240c09aafc6c8162053e20f3134c8659945f03,149632,
+program,MAFFT (libexec/mafft/pairash),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/pairash,f7e7b56976de39d428c6ea706219f8114f2fdaca7d774f55914fd00bfee1461a,108528,
+program,MAFFT (libexec/mafft/pairlocalalign),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/pairlocalalign,a9f1c51e1ee5671afed870e93a017fe3221513bdbcbef315f0e8d819ae1dd5da,354432,
+program,MAFFT (libexec/mafft/regtable2seq),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/regtable2seq,b000ff823df9c69b10526924d3acc40b70e103794ef4091b82695d84d0bb39c1,30880,
+program,MAFFT (libexec/mafft/replaceu),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/replaceu,951fcea6c027115e0b4a3e60a06fe9b8ce0a722b3056c532bdb9e869aaa74ead,22616,
+program,MAFFT (libexec/mafft/restoreu),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/restoreu,3d2f16e230b41c9dd3a9361eb7995b9c9ca86336a870ceb533372d02ea9e826a,26712,
+program,MAFFT (libexec/mafft/score),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/score,17cf663438bd24cd327d021f5e16750f837c40efb9c20fe86d06412cf2e6ad1f,92144,
+program,MAFFT (libexec/mafft/seekquencer_premafft.pl),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/seekquencer_premafft.pl,bfe2f4cd579c3734ac9a4979c9a1b577bef8993f5242c342019df2c490d82fd3,15541,
+program,MAFFT (libexec/mafft/seq2regtable),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/seq2regtable,8da855f127c64964979d2909b959823bfc8aa7b42518852f9374365f919e0a8e,26712,
+program,MAFFT (libexec/mafft/setcore),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/setcore,fddd426a51d41e8c7e8bd488f6ca290d4315b4f71999105f34a0ede6dc409ce8,104432,
+program,MAFFT (libexec/mafft/setdirection),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/setdirection,8108f3add6747b6ce790df5b98a58f3823585aeb554e94d4fd9561a2fae1bf3d,26792,
+program,MAFFT (libexec/mafft/sextet5),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/sextet5,d9b7d924f5e99337637d7fafc00b0d9f56139de78867e4e803a98b508d380f4a,92144,
+program,MAFFT (libexec/mafft/splittbfast),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/splittbfast,873b1c1f9b3e4315be1aeb6a820498523b52d9060b76afba3dd1badff70a7a70,333952,
+program,MAFFT (libexec/mafft/tbfast),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/tbfast,cc6c95b439ad1981fff849cb1620a63f951d9b6709782a6875275d9dc396cc0a,522368,
+program,MAFFT (libexec/mafft/version),v7.526 (2024/Apr/26),mafft --version,beast,<environment beast>/libexec/mafft/version,883f619ff5ef0c30d46ccb6cd70c1602292a9e23390e6efbe9575599fb5fcf58,14328,
+interpreter,Python,3.11.15,python -c 'import sys; print(sys.version)',beast,<environment beast>/bin/python,bc631e035046753d3bf53a5c6f910b0b927cec746618602504f3258e657b29b5,25409784,resolves to <environment beast>/bin/python3.11
+python package (import),numpy,2.4.6,__version__ on import in this environment,beast,,see the rows of the package above,,
+python package (import),pandas,3.0.3,__version__ on import in this environment,beast,,see the rows of the package above,,
+python package (import),scipy,1.17.1,__version__ on import in this environment,beast,,see the rows of the package above,,
+python package (import),dendropy,5.0.8,__version__ on import in this environment,beast,,see the rows of the package above,,
+interpreter,Python,3.11.15,python -c 'import sys; print(sys.version)',python,<environment python>/bin/python,9a60c3bcea5d9b9153565550e06048d611b3e8ff34a932a94746fbde901a595f,25409784,resolves to <environment python>/bin/python3.11
+package (conda),matplotlib,3.11.0 (build py311h38be061_1),conda-meta record,python,conda-meta/matplotlib-3.11.0-py311h38be061_1.json,9b9625633f11f500e0ce8cbed28df0c8f8c0ab8596cb8351ce0aeba9e5c7031b,14874,channel conda-forge; SHA-256 of the package archive as recorded by conda
+package (conda),matplotlib-base,3.11.0 (build py311h0a88c4d_1),conda-meta record,python,conda-meta/matplotlib-base-3.11.0-py311h0a88c4d_1.json,95b1c40de67700e56fc48325272c01c111a196f37995bd75825bcd5e14c94e03,8889973,channel conda-forge; SHA-256 of the package archive as recorded by conda
+package (conda),pillow,12.3.0 (build py311hf88fc01_0),conda-meta record,python,conda-meta/pillow-12.3.0-py311hf88fc01_0.json,fc8a6dbcf1f367cc33ae6d505370b8d9d51ca5eae9b53bf1517307f863300d27,1081155,channel conda-forge; SHA-256 of the package archive as recorded by conda
+python package (import),numpy,2.4.6,__version__ on import in this environment,python,,see the rows of the package above,,
+python package (import),pandas,2.3.3,__version__ on import in this environment,python,,see the rows of the package above,,
+python package (import),scipy,1.17.1,__version__ on import in this environment,python,,see the rows of the package above,,
+python package (import),dendropy,5.0.10,__version__ on import in this environment,python,,see the rows of the package above,,

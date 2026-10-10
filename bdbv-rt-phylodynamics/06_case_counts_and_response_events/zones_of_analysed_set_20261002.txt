@@ -1,0 +1,12 @@
+# Health zones whose confirmed cases are set beside the genomic estimates (one name per line).
+# State of 2 October 2026: the seven health zones of Ituri of the round of 24 September 2026.
+# The analysed set of genomes of the new round is not yet known. When it is known, replace the
+# names below and run build_case_series_20261002.py again; no change of the code is needed.
+# If the number of zones changes, also pass --zone-set-label and --zone-set-tag.
+Bunia
+Rwampara
+Nizi
+Mongbwalu
+Lita
+Mangala
+Bambu

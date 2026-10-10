@@ -1,0 +1,1 @@
+programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83202 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83202.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83202.trees --v0-target-coal-prior-cells 8000

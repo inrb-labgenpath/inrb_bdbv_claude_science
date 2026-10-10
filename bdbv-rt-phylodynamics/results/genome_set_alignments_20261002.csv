@@ -1,0 +1,5 @@
+set,called_fraction,called_positions_needed_of_18900,alignment,sha256,bytes,genomes,alignment_length,earliest_collection_date,most_recent_collection_date,genomes_on_the_most_recent_date,second_most_recent_collection_date,variable_sites_counted_by_the_pipeline,parsimony_informative_sites_counted_by_the_pipeline,genomes_with_masked_adar_positions,masked_adar_positions
+C95,0.95 or more,17955,C95_20261002.fasta,ee0c26b65a78a5273380690125738dee1f0d5afd4b033d033bd9fde1967c5723,7434672,392,18940,2026-05-03,2026-09-02,3,2026-08-31,628,242,22,65
+C90,0.90 or more,17010,C90_20261002.fasta,c9f9c3d0f6b1b3c539644809c764831122bfb4ba240506afb7dec23f5c0587da,10526130,555,18940,2026-05-02,2026-09-05,1,2026-09-04,768,294,37,116
+C80,0.80 or more,15120,C80_20261002.fasta,ea0697d71f0e026fcf6c9ae2912fe8331eafefbf956bfe9c4045bd0a3ab55bef,12783084,674,18940,2026-05-02,2026-09-06,1,2026-09-05,843,324,51,178
+C00,no threshold,,C00_20261002.fasta,0a1d879d286ad1a69793daca6efbee6cc2b412ca5c6f82beb38c02ae137d6e87,12896880,680,18940,2026-05-02,2026-09-06,1,2026-09-05,846,325,51,178

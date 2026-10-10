@@ -1,0 +1,1222 @@
+{
+ "chains": [
+  {
+   "chain": "beast_C_s91001",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91001,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91001 -save_every 500000 -save_state beast_C_s91001.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91001",
+   "dir": "runs/beast_C/beast_C_s91001",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91001.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91001.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91002",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91002,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91002 -save_every 500000 -save_state beast_C_s91002.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91002",
+   "dir": "runs/beast_C/beast_C_s91002",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91002.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91002.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91003",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91003,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91003 -save_every 500000 -save_state beast_C_s91003.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91003",
+   "dir": "runs/beast_C/beast_C_s91003",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91003.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91003.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91004",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91004,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91004 -save_every 500000 -save_state beast_C_s91004.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91004",
+   "dir": "runs/beast_C/beast_C_s91004",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91004.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91004.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91005",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91005,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91005 -save_every 500000 -save_state beast_C_s91005.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91005",
+   "dir": "runs/beast_C/beast_C_s91005",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91005.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91005.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91006",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91006,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91006 -save_every 500000 -save_state beast_C_s91006.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91006",
+   "dir": "runs/beast_C/beast_C_s91006",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91006.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91006.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91007",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91007,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91007 -save_every 500000 -save_state beast_C_s91007.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91007",
+   "dir": "runs/beast_C/beast_C_s91007",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91007.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91007.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_C_s91008",
+   "analysis": "beast_C",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "C00",
+   "seed": 91008,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91008 -save_every 500000 -save_state beast_C_s91008.state -overwrite ../../../xml/beastC_weekly32_C00_20261002.xml",
+   "run_from": "runs/beast_C/beast_C_s91008",
+   "dir": "runs/beast_C/beast_C_s91008",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_C00_20261002.xml",
+   "log": "beastC_weekly32_C00_20261002.log",
+   "state_file": "beast_C_s91008.state",
+   "outputs": [
+    "beastC_weekly32_C00_20261002.log",
+    "beastC_weekly32_C00_20261002.trees",
+    "beastC_weekly32_C00_20261002.ops",
+    "beastC_weekly32_C00_20261002.citations.txt",
+    "beast_C_s91008.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_C00_20261002.xml",
+    "control/READY_beast_C"
+   ]
+  },
+  {
+   "chain": "beast_D_s92001",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92001,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92001 -save_every 500000 -save_state beast_D_s92001.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92001",
+   "dir": "runs/beast_D/beast_D_s92001",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92001.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92001.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92002",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92002,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92002 -save_every 500000 -save_state beast_D_s92002.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92002",
+   "dir": "runs/beast_D/beast_D_s92002",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92002.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92002.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92003",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92003,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92003 -save_every 500000 -save_state beast_D_s92003.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92003",
+   "dir": "runs/beast_D/beast_D_s92003",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92003.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92003.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92004",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92004,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92004 -save_every 500000 -save_state beast_D_s92004.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92004",
+   "dir": "runs/beast_D/beast_D_s92004",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92004.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92004.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92005",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92005,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92005 -save_every 500000 -save_state beast_D_s92005.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92005",
+   "dir": "runs/beast_D/beast_D_s92005",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92005.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92005.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92006",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92006,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92006 -save_every 500000 -save_state beast_D_s92006.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92006",
+   "dir": "runs/beast_D/beast_D_s92006",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92006.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92006.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92007",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92007,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92007 -save_every 500000 -save_state beast_D_s92007.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92007",
+   "dir": "runs/beast_D/beast_D_s92007",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92007.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92007.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "beast_D_s92008",
+   "analysis": "beast_D",
+   "program": "BEAST X 10.5.0",
+   "setting": "D: constant exponential growth, HKY, strict clock",
+   "genome_set": "C00",
+   "seed": 92008,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 92008 -save_every 500000 -save_state beast_D_s92008.state -overwrite ../../../xml/beastD_exp_C00_20261002.xml",
+   "run_from": "runs/beast_D/beast_D_s92008",
+   "dir": "runs/beast_D/beast_D_s92008",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastD_exp_C00_20261002.xml",
+   "log": "beastD_exp_C00_20261002.log",
+   "state_file": "beast_D_s92008.state",
+   "outputs": [
+    "beastD_exp_C00_20261002.log",
+    "beastD_exp_C00_20261002.trees",
+    "beastD_exp_C00_20261002.ops",
+    "beastD_exp_C00_20261002.citations.txt",
+    "beast_D_s92008.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastD_exp_C00_20261002.xml",
+    "control/READY_beast_D"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83201",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83201,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83201 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83201.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83201.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83201.log",
+   "outputs": [
+    "delphy_exponential_s83201.log",
+    "delphy_exponential_s83201.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83201.start",
+    "ended": "delphy_exponential_s83201.end",
+    "exit_code": "delphy_exponential_s83201.exit",
+    "stdout": "delphy_exponential_s83201.stdout",
+    "command": "delphy_exponential_s83201.cmd",
+    "pid": "delphy_exponential_s83201.pid",
+    "env": "delphy_exponential_s83201.env",
+    "attempt": "delphy_exponential_s83201.attempt",
+    "wrapper": "delphy_exponential_s83201.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83202",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83202,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83202 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83202.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83202.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83202.log",
+   "outputs": [
+    "delphy_exponential_s83202.log",
+    "delphy_exponential_s83202.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83202.start",
+    "ended": "delphy_exponential_s83202.end",
+    "exit_code": "delphy_exponential_s83202.exit",
+    "stdout": "delphy_exponential_s83202.stdout",
+    "command": "delphy_exponential_s83202.cmd",
+    "pid": "delphy_exponential_s83202.pid",
+    "env": "delphy_exponential_s83202.env",
+    "attempt": "delphy_exponential_s83202.attempt",
+    "wrapper": "delphy_exponential_s83202.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83203",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83203,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83203 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83203.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83203.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83203.log",
+   "outputs": [
+    "delphy_exponential_s83203.log",
+    "delphy_exponential_s83203.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83203.start",
+    "ended": "delphy_exponential_s83203.end",
+    "exit_code": "delphy_exponential_s83203.exit",
+    "stdout": "delphy_exponential_s83203.stdout",
+    "command": "delphy_exponential_s83203.cmd",
+    "pid": "delphy_exponential_s83203.pid",
+    "env": "delphy_exponential_s83203.env",
+    "attempt": "delphy_exponential_s83203.attempt",
+    "wrapper": "delphy_exponential_s83203.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83204",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83204,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83204 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83204.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83204.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83204.log",
+   "outputs": [
+    "delphy_exponential_s83204.log",
+    "delphy_exponential_s83204.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83204.start",
+    "ended": "delphy_exponential_s83204.end",
+    "exit_code": "delphy_exponential_s83204.exit",
+    "stdout": "delphy_exponential_s83204.stdout",
+    "command": "delphy_exponential_s83204.cmd",
+    "pid": "delphy_exponential_s83204.pid",
+    "env": "delphy_exponential_s83204.env",
+    "attempt": "delphy_exponential_s83204.attempt",
+    "wrapper": "delphy_exponential_s83204.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83205",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83205,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83205 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83205.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83205.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83205.log",
+   "outputs": [
+    "delphy_exponential_s83205.log",
+    "delphy_exponential_s83205.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83205.start",
+    "ended": "delphy_exponential_s83205.end",
+    "exit_code": "delphy_exponential_s83205.exit",
+    "stdout": "delphy_exponential_s83205.stdout",
+    "command": "delphy_exponential_s83205.cmd",
+    "pid": "delphy_exponential_s83205.pid",
+    "env": "delphy_exponential_s83205.env",
+    "attempt": "delphy_exponential_s83205.attempt",
+    "wrapper": "delphy_exponential_s83205.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "delphy_exponential_s83206",
+   "analysis": "delphy_exponential",
+   "program": "Delphy 1.4.1",
+   "setting": "constant exponential growth, 8,000 cells",
+   "genome_set": "C00",
+   "seed": 83206,
+   "threads": 2,
+   "steps": 1500000000,
+   "log_every": 300000,
+   "tree_every": 30000000,
+   "kind": "delphy",
+   "alignment": "aln/C00_20261002.fasta",
+   "command": "programs/delphy_1.4.1/bin/delphy --v0-in-fasta aln/C00_20261002.fasta --v0-steps 1500000000 --v0-seed 83206 --v0-threads 2 --v0-pop-model exponential --v0-log-every 300000 --v0-tree-every 30000000 --v0-out-log-file runs/delphy_exponential/delphy_exponential_s83206.log --v0-out-trees-file runs/delphy_exponential/delphy_exponential_s83206.trees --v0-target-coal-prior-cells 8000",
+   "run_from": ".",
+   "dir": "runs/delphy_exponential",
+   "address_space_limit_kib": 8388608,
+   "log": "delphy_exponential_s83206.log",
+   "outputs": [
+    "delphy_exponential_s83206.log",
+    "delphy_exponential_s83206.trees"
+   ],
+   "files": {
+    "started": "delphy_exponential_s83206.start",
+    "ended": "delphy_exponential_s83206.end",
+    "exit_code": "delphy_exponential_s83206.exit",
+    "stdout": "delphy_exponential_s83206.stdout",
+    "command": "delphy_exponential_s83206.cmd",
+    "pid": "delphy_exponential_s83206.pid",
+    "env": "delphy_exponential_s83206.env",
+    "attempt": "delphy_exponential_s83206.attempt",
+    "wrapper": "delphy_exponential_s83206.wrapper"
+   },
+   "requires": [
+    "aln/C00_20261002.fasta",
+    "programs/delphy_1.4.1/bin/delphy",
+    "control/READY_delphy_exponential"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93001",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93001,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93001 -save_every 500000 -save_state beast_C_retained1046_s93001.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93001",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93001",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93001.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93001.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93002",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93002,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93002 -save_every 500000 -save_state beast_C_retained1046_s93002.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93002",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93002",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93002.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93002.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93003",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93003,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93003 -save_every 500000 -save_state beast_C_retained1046_s93003.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93003",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93003",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93003.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93003.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93004",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93004,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93004 -save_every 500000 -save_state beast_C_retained1046_s93004.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93004",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93004",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93004.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93004.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93005",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93005,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93005 -save_every 500000 -save_state beast_C_retained1046_s93005.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93005",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93005",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93005.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93005.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93006",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93006,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93006 -save_every 500000 -save_state beast_C_retained1046_s93006.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93006",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93006",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93006.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93006.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93007",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93007,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93007 -save_every 500000 -save_state beast_C_retained1046_s93007.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93007",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93007",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93007.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93007.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  },
+  {
+   "chain": "beast_C_retained1046_s93008",
+   "analysis": "beast_C_retained1046",
+   "program": "BEAST X 10.5.0",
+   "setting": "C: Skygrid, 32 parameters, cut-off 0.613699 years, precision estimated (Gamma(0.001, 1000) prior), GTR, strict clock",
+   "genome_set": "retained1046",
+   "seed": 93008,
+   "threads": 1,
+   "steps": 40000000,
+   "log_every": 20000,
+   "tree_every": 2000000,
+   "kind": "beast",
+   "alignment": "aln/retained1046_20261002.fasta",
+   "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93008 -save_every 500000 -save_state beast_C_retained1046_s93008.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml",
+   "run_from": "runs/beast_C_retained1046/beast_C_retained1046_s93008",
+   "dir": "runs/beast_C_retained1046/beast_C_retained1046_s93008",
+   "launcher_directory": "PATH_OF_THE_BEAST_X_ENVIRONMENT/bin",
+   "prelude": "export JAVA_TOOL_OPTIONS='-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1'",
+   "xml": "xml/beastC_weekly32_retained1046_20261002.xml",
+   "log": "beastC_weekly32_retained1046_20261002.log",
+   "state_file": "beast_C_retained1046_s93008.state",
+   "outputs": [
+    "beastC_weekly32_retained1046_20261002.log",
+    "beastC_weekly32_retained1046_20261002.trees",
+    "beastC_weekly32_retained1046_20261002.ops",
+    "beastC_weekly32_retained1046_20261002.citations.txt",
+    "beast_C_retained1046_s93008.state"
+   ],
+   "files": {
+    "started": "started.txt",
+    "ended": "finished.txt",
+    "exit_code": "exit_code.txt",
+    "stdout": "stdout.txt",
+    "command": "command.txt",
+    "pid": "pid.txt"
+   },
+   "requires": [
+    "xml/beastC_weekly32_retained1046_20261002.xml",
+    "control/READY_beast_C_retained1046"
+   ]
+  }
+ ]
+}

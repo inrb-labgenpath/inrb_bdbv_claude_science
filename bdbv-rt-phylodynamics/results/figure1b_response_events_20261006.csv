@@ -1,0 +1,10 @@
+order,first_day,last_day,meaning_of_the_period,kind,short_label,words_for_the_legend,sources,row_of_the_checked_table
+1,2026-05-05,2026-05-05,,alert,First alert to WHO,first alert to WHO of a cluster of deaths in Mongbwalu Health Zone,WHO-DON602,1
+2,2026-05-12,2026-05-13,two days of field investigation,response measure,Field investigation in Mongbwalu and Rwampara,field investigation by the rapid response team in the health zones of Mongbwalu and Rwampara,PGPH; WHO-DON602,22
+3,2026-05-17,2026-05-17,,declaration by WHO,WHO declares an international emergency,WHO determines a public health emergency of international concern,WHO-DON603,4
+4,2026-05-21,2026-05-21,,attack on the response,Treatment tents at Rwampara set on fire,two treatment tents at Rwampara Hospital are set on fire,PGPH; ALIMA,27
+5,2026-05-22,2026-05-22,,response measure,"Ituri bans funeral wakes, limits gatherings","the military governor of Ituri bans funeral wakes, limits gatherings to 50 persons and reserves burials to the response teams",OKAPI; ACP,41
+6,2026-05-28,2026-05-28,,response measure,MSF treatment centre opens in Goma,MSF's treatment centre in Goma admits its first patients,MSF-15JUN; MSF-LU,30
+7,2026-05-30,2026-05-30,,response measure,MSF treatment centre opens in Bunia,MSF's treatment centre in Bunia opens,MSF-2JUN,32
+8,2026-06-02,2026-06-15,"the day lies between these days and is not known (an interval of uncertainty, not a duration)",response measure,MSF centre opens in Mongbwalu (2–15 June),MSF's treatment centre in Mongbwalu opens,MSF-2JUN; MSF-15JUN; MSF-15JUL,37
+9,2026-06-06,2026-06-06,,attack on the response,Safe-burial team attacked,a safe and dignified burial team is attacked,IMJ,43

@@ -1,0 +1,19 @@
+{
+ "primary": "primary",
+ "neutral_wording": true,
+ "external_data_set": {"analysis": "INRB, Virological post #1046", "country": "Democratic Republic of the Congo", "main_group_only": true, "released_to": "2026-08-20", "collected_to": "2026-08-09", "include_undated": true},
+ "sets": {
+  "primary":                  {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "primaryAllDated":          {"dated": true, "min_completeness": 0.9, "exclude_classes": [], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "primaryMinusAnomalous":    {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude", "drop_batches": "anomalous"},
+  "primaryDupNone":           {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "none", "data_use": "exclude"},
+  "primaryDupKeepBest":       {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "keep-best", "data_use": "exclude"},
+  "primaryWithSingletons":    {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "include"},
+  "primaryDrcOnly":           {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude", "country": "Democratic Republic of the Congo"},
+  "primaryMinusInrbExcluded": {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude", "exclusion_list": true},
+  "primaryMinusAdarS01":      {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude", "exclude_accessions_file": "adar_S01_carriers_20260924.txt"},
+  "primaryMinusClass0":       {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H", "0"], "duplicate_rule": "drop-discordant", "data_use": "exclude"},
+  "rulesV1":                  {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude", "class_column": "class_rules_v1"},
+  "inrbRetained":             {"dated": true, "min_completeness": null, "exclude_classes": [], "duplicate_rule": "none", "data_use": "exclude", "country": "Democratic Republic of the Congo", "collected_from": "2026-05-02", "collected_to": "2026-08-09", "released_to": "2026-08-20", "exclusion_list": true}
+ }
+}

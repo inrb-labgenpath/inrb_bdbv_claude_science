@@ -1,0 +1,7 @@
+{
+ "primary": "C90",
+ "neutral_wording": true,
+ "sets": {
+  "C90": {"dated": true, "min_completeness": 0.9, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"}
+ }
+}

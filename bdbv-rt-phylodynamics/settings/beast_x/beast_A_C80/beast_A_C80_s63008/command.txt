@@ -1,0 +1,1 @@
+beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 63008 -save_every 500000 -save_state beast_A_C80_s63008.state -overwrite beastA_skyfix_C80_20261002.xml

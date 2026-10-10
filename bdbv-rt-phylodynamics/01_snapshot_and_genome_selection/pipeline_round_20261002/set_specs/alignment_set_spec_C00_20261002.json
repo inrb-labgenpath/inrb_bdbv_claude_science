@@ -1,0 +1,7 @@
+{
+ "primary": "C00",
+ "neutral_wording": true,
+ "sets": {
+  "C00": {"dated": true, "min_completeness": null, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"}
+ }
+}

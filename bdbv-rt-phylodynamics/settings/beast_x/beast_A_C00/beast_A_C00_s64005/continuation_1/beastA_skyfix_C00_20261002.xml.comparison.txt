@@ -1,0 +1,7 @@
+XML of the chain: beastA_skyfix_C00_20261002.xml, SHA-256 20795790f0915892232360a598848e20106c1b83a2119fc98592b7cbd10ed077, 1479 lines
+XML of the continuation: beastA_skyfix_C00_20261002.xml, SHA-256 7fb90f685f43349a5af1f16fe02283dabf93621c4e767578434c0cf8b897d1f0, 1479 lines
+lines that differ: 1 (line 1438)
+  chain:        <mcmc id="mcmc" chainLength="40000000" autoOptimize="true" operatorAnalysis="beastA_skyfix_C00_20261002.ops">
+  continuation: <mcmc id="mcmc" chainLength="500000" autoOptimize="true" operatorAnalysis="beastA_skyfix_C00_20261002.ops">
+the two lines are equal apart from the value of chainLength: yes
+length of the chain 40000000; state of the checkpoint 39500000; chain length of the XML of the continuation 500000

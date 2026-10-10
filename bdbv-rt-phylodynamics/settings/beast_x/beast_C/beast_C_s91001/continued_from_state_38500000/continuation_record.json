@@ -1,0 +1,22 @@
+{
+ "chain": "beast_C_s91001",
+ "state": 38500000,
+ "saved_state_file": "saved_states/beast_C_s91001_state_38500000.state",
+ "log_likelihood_in_the_saved_state": -37937.69835173031,
+ "log_likelihoods_printed_by_the_program": [
+  -37937.69835173061,
+  -37937.69835173031
+ ],
+ "states_of_the_first_log_kept": 1926,
+ "trees_of_the_first_tree_file_kept": 20,
+ "chain_length_of_the_first_input_file": 40000000,
+ "chain_length_of_the_input_file_of_the_continuation": 1500000,
+ "line_of_the_input_file_that_differs": [
+  1440,
+  "<mcmc id=\"mcmc\" chainLength=\"40000000\" autoOptimize=\"true\" operatorAnalysis=\"beastC_weekly32_C00_20261002.ops\">",
+  "<mcmc id=\"mcmc\" chainLength=\"1500000\" autoOptimize=\"true\" operatorAnalysis=\"beastC_weekly32_C00_20261002.ops\">"
+ ],
+ "command": "beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 91001 -load_state beast_C_s91001.state -force_resume -save_every 500000 -save_state beast_C_s91001.state -overwrite beastC_weekly32_C00_20261002.xml",
+ "difference_of_the_two_log_likelihoods": 2.9831426218152046e-10,
+ "released": "yes"
+}

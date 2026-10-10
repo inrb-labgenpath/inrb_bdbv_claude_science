@@ -1,0 +1,100 @@
+{
+ "primary": "C00",
+ "neutral_wording": true,
+ "external_data_set": {
+  "analysis": "INRB, Virological post #1046",
+  "country": "Democratic Republic of the Congo",
+  "main_group_only": true,
+  "released_to": "2026-08-20",
+  "collected_to": "2026-08-09",
+  "include_undated": true
+ },
+ "sets": {
+  "C00": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [
+    "E",
+    "E-",
+    "D",
+    "M",
+    "H"
+   ],
+   "duplicate_rule": "drop-discordant",
+   "data_use": "exclude"
+  },
+  "allClasses": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [],
+   "duplicate_rule": "drop-discordant",
+   "data_use": "exclude"
+  },
+  "minusExcluded1046": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [
+    "E",
+    "E-",
+    "D",
+    "M",
+    "H"
+   ],
+   "duplicate_rule": "drop-discordant",
+   "data_use": "exclude",
+   "exclusion_list": true
+  },
+  "retained1046": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [],
+   "duplicate_rule": "none",
+   "data_use": "exclude",
+   "country": "Democratic Republic of the Congo",
+   "collected_from": "2026-05-02",
+   "collected_to": "2026-08-09",
+   "released_to": "2026-08-20",
+   "exclusion_list": true
+  },
+  "dupNone": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [
+    "E",
+    "E-",
+    "D",
+    "M",
+    "H"
+   ],
+   "duplicate_rule": "none",
+   "data_use": "exclude"
+  },
+  "dupKeepBest": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [
+    "E",
+    "E-",
+    "D",
+    "M",
+    "H"
+   ],
+   "duplicate_rule": "keep-best",
+   "data_use": "exclude"
+  },
+  "drcOnly": {
+   "dated": true,
+   "min_completeness": null,
+   "exclude_classes": [
+    "E",
+    "E-",
+    "D",
+    "M",
+    "H"
+   ],
+   "duplicate_rule": "drop-discordant",
+   "data_use": "exclude",
+   "country": "Democratic Republic of the Congo"
+  }
+ }
+}

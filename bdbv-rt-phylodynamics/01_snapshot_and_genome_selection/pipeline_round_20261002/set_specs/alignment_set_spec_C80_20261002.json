@@ -1,0 +1,7 @@
+{
+ "primary": "C80",
+ "neutral_wording": true,
+ "sets": {
+  "C80": {"dated": true, "min_completeness": 0.8, "exclude_classes": ["E", "E-", "D", "M", "H"], "duplicate_rule": "drop-discordant", "data_use": "exclude"}
+ }
+}

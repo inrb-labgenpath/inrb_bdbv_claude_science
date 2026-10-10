@@ -1,0 +1,5 @@
+python work/pipeline_ext/beast_make_xml.py --fasta aln/C00_20261002.fasta --name beastC_weekly32_C00_20261002 --out-suffix 20261002 --model skygrid-estimated --chain-length 40000000 --log-every 20000 --tree-every 2000000 --num-parameters 32 --cutoff 0.613699 --subst-model gtr --tip-date-text fixed6 --screen-every 1000000 --outdir xml
+# SHA-256 of the file written: 1a7299f2453ec469fddf606678cde2d92d2c5d0b007ea8e645bfcee84b06a60c
+# SHA-256 of the alignment: 0a1d879d286ad1a69793daca6efbee6cc2b412ca5c6f82beb38c02ae137d6e87
+# SHA-256 of the generator: ef0dcbed0d183eb972bce9096216fb7156656b30209bab357649b1533d50e577
+# arguments of the counterpart of 24 September (they reproduce the stored input file byte for byte): --name beastC_inrblike_primary_20260924 --out-suffix 20260924 --model skygrid-estimated --chain-length 40000000 --log-every 20000 --tree-every 2000000 --num-parameters 32 --cutoff 0.613699 --subst-model gtr --tip-date-text fixed6 --screen-every 1000000

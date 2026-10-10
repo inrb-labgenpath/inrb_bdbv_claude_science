@@ -1,0 +1,1 @@
+beast -threads 1 -beagle_CPU -beagle_SSE -beagle_threads 1 -seed 93006 -save_every 500000 -save_state beast_C_retained1046_s93006.state -overwrite ../../../xml/beastC_weekly32_retained1046_20261002.xml

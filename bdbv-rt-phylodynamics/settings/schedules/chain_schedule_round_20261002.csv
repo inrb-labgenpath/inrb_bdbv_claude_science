@@ -1,0 +1,249 @@
+analysis,program,setting,genome_set,chain,seed,track,note,steps,log_every,tree_every,threads,burn_in_share
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,1,31001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,2,31002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,3,31003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,4,31004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,5,31005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,6,31006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,7,31007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,8,31008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,9,31009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,10,31010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,11,31011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,12,31012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,13,31013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,14,31014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,15,31015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,16,31016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,17,31017,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,18,31018,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,19,31019,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,20,31020,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,21,31021,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,22,31022,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,23,31023,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C95,24,31024,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,1,32001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,2,32002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,3,32003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,4,32004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,5,32005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,6,32006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,7,32007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,8,32008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,9,32009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,10,32010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,11,32011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,12,32012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,13,32013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,14,32014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,15,32015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,16,32016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,17,32017,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,18,32018,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,19,32019,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,20,32020,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,21,32021,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,22,32022,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,23,32023,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C90,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C90,24,32024,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,1,33001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,2,33002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,3,33003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,4,33004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,5,33005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,6,33006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,7,33007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,8,33008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,9,33009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,10,33010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,11,33011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,12,33012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,13,33013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,14,33014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,15,33015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,16,33016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,17,33017,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,18,33018,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,19,33019,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,20,33020,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,21,33021,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,22,33022,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,23,33023,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C80,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C80,24,33024,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,1,34001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,2,34002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,3,34003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,4,34004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,5,34005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,6,34006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,7,34007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,8,34008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,9,34009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,10,34010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,11,34011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,12,34012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,13,34013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,14,34014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,15,34015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,16,34016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,17,34017,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,18,34018,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,19,34019,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,20,34020,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,21,34021,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,22,34022,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,23,34023,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C00,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)",C00,24,34024,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,1,41001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,2,41002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,3,41003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,4,41004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,5,41005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,6,41006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,7,41007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,8,41008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,9,41009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,10,41010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,11,41011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,12,41012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,13,41013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,14,41014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,15,41015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C95,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C95,16,41016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,1,42001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,2,42002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,3,42003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,4,42004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,5,42005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,6,42006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,7,42007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,8,42008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,9,42009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,10,42010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,11,42011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,12,42012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,13,42013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,14,42014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,15,42015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C90,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C90,16,42016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,1,43001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,2,43002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,3,43003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,4,43004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,5,43005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,6,43006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,7,43007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,8,43008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,9,43009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,10,43010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,11,43011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,12,43012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,13,43013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,14,43014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,15,43015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C80,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C80,16,43016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,1,44001,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,2,44002,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,3,44003,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,4,44004,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,5,44005,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,6,44006,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,7,44007,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,8,44008,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,9,44009,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,10,44010,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,11,44011,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,12,44012,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,13,44013,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,14,44014,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,15,44015,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_estimated_C00,Delphy 1.4.1,"Skygrid, smoothing estimated (hyperprior at the program defaults)",C00,16,44016,Delphy sets,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",1,51001,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",2,51002,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",3,51003,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",4,51004,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",5,51005,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",6,51006,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",7,51007,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",8,51008,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",9,51009,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",10,51010,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",11,51011,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw1,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 1 (seed of the draw 20261002)",12,51012,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",1,52001,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",2,52002,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",3,52003,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",4,52004,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",5,52005,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",6,52006,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",7,52007,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",8,52008,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",9,52009,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",10,52010,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",11,52011,Masking,,1500000000,300000,30000000,2,0.3
+delphy_fixed_C95masked_draw2,Delphy 1.4.1,"Skygrid, smoothing fixed (program default)","C95 masked, draw 2 (seed of the draw 20261003)",12,52012,Masking,,1500000000,300000,30000000,2,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,1,62001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,2,62002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,3,62003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,4,62004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,5,62005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,6,62006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,7,62007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C90,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C90,8,62008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,1,63001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,2,63002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,3,63003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,4,63004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,5,63005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,6,63006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,7,63007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C80,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C80,8,63008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,1,64001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,2,64002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,3,64003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,4,64004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,5,64005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,6,64006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,7,64007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C00,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C00,8,64008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,1,72001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,2,72002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,3,72003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,4,72004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,5,72005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,6,72006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,7,72007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C90,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C90,8,72008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,1,73001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,2,73002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,3,73003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,4,73004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,5,73005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,6,73006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,7,73007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C80,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C80,8,73008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,1,74001,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,2,74002,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,3,74003,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,4,74004,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,5,74005,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,6,74006,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,7,74007,BEAST sets,,40000000,20000,400000,1,0.3
+beast_B_C00,BEAST X 10.5.0,"B: Skygrid, precision estimated (Gamma(0.001, 1000) prior)",C00,8,74008,BEAST sets,,40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,1,61001,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,2,61002,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,3,61003,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,4,61004,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,5,61005,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,6,61006,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,7,61007,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335",C95,8,61008,Masking,unmasked side of the masking experiment (section 4 of the plan),40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",1,65001,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",2,65002,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",3,65003,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",4,65004,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",5,65005,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",6,65006,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",7,65007,Masking,,40000000,20000,400000,1,0.3
+beast_A_C95masked_draw1,BEAST X 10.5.0,"A: Skygrid, precision fixed at 4.06335","C95 masked, draw 1 (seed of the draw 20261002)",8,65008,Masking,,40000000,20000,400000,1,0.3
