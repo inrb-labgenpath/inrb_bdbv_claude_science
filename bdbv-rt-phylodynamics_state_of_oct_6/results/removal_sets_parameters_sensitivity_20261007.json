@@ -1,0 +1,88 @@
+{
+ "label": "20261007",
+ "restricted_use_genomes_left_out": 0,
+ "reference_set": "C00",
+ "area": "Bunia",
+ "reference_period": [
+  "2026-06-04",
+  "2026-08-05"
+ ],
+ "share_of_the_area_in_the_reference_period": 0.30303030303030304,
+ "genomes_in_the_reference_period": 462,
+ "genomes_of_the_area_in_the_reference_period": 140,
+ "blocks": [
+  [
+   "2026-08-05",
+   "2026-08-20"
+  ],
+  [
+   "2026-08-20",
+   "2026-09-13"
+  ]
+ ],
+ "recent_from": "2026-08-05",
+ "anchor_of_the_grid": "2026-09-12",
+ "interval_days": 15.368421052631579,
+ "genomes_on_the_most_recent_collection_date": 4,
+ "numbers_removed_per_interval_control_A": {
+  "1": 30,
+  "2": 18,
+  "3": 21
+ },
+ "numbers_removed_per_interval_control_B": {
+  "1": 44,
+  "2": 34,
+  "3": 32
+ },
+ "equal_numbers_in_the_plan_of_control_B": false,
+ "arguments": {
+  "label": "20261007",
+  "pipeline": "tree/pipeline_round_20261002/pipeline_20260924",
+  "metadata": "inputs07/INTERNAL_screen_input_metadata_20261007.csv",
+  "alignment": "inputs07/screen_input_outbreak_aligned_20261007.fasta.gz",
+  "validation": "inputs07/snapshot_validation_20261007.csv",
+  "duplicate_pairs": "inputs07/duplicate_sample_pairs_20261007.csv",
+  "amplicons": "inputs07/artic-pan-ebola_v2_amplicons.csv",
+  "previous_screen": "inputs07/public_quality_screen_20260912.csv",
+  "exclusion_list": "inputs07/inrb_1046_exclusions.csv",
+  "expected_n": 920,
+  "set_spec": "specs/alignment_set_spec_sensitivity_20261002.json",
+  "reference_set": "C00",
+  "upto": [
+   "upTo0831=2026-08-31",
+   "upTo0817=2026-08-17"
+  ],
+  "area": "Bunia",
+  "reference_period": [
+   "2026-06-04",
+   "2026-08-05"
+  ],
+  "blocks": [
+   "2026-08-05:2026-08-20",
+   "2026-08-20:2026-09-13"
+  ],
+  "recent_from": "2026-08-05",
+  "thinned": [
+   "buniaThinned_rep1=2026100301",
+   "buniaThinned_rep2=2026100302",
+   "buniaThinned_rep3=2026100303"
+  ],
+  "without_recent": "withoutRecentBunia",
+  "control_a": [
+   "randomThinnedA_rep1=2026100311",
+   "randomThinnedA_rep2=2026100312",
+   "randomThinnedA_rep3=2026100313"
+  ],
+  "control_b": [
+   "randomThinnedB_rep1=2026100321",
+   "randomThinnedB_rep2=2026100322",
+   "randomThinnedB_rep3=2026100323"
+  ],
+  "num_parameters": 20,
+  "cutoff": 0.8,
+  "outdir": "sets07",
+  "python": "python",
+  "data_use_exclude": "",
+  "withhold": "PP_006XXY5.1,PP_007L9XG.1"
+ }
+}

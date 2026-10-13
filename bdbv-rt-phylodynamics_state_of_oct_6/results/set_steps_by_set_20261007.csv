@@ -1,0 +1,85 @@
+set,order,step,rule,genomes_that_fail_at_this_step_first,genomes_left_after_the_step,genomes_that_fail_the_rule_whatever_the_order,genomes_for_which_the_rule_is_not_assessed
+C95,article,0,genomes of the outbreak set,,922,,
+C95,article,1,no collection date to the day,12,910,12,0
+C95,article,2,called fraction below the threshold,380,530,384,0
+C95,article,3,"shares a sample identifier with a record that differs, or with a concordant record that is more complete",41,489,67,0
+C95,article,3 (part),of these: with a record that differs (both records are left out),39,,62,0
+C95,article,3 (part),of these: with a concordant record that is more complete (the less complete record is left out),2,,5,0
+C95,article,4,restricted use (record of another group),2,487,2,0
+C95,article,5,"did not pass the quality checks (class E, E-, D, M or H)",16,471,74,2
+C95,article,5 (part),of these: class E,4,,32,2
+C95,article,5 (part),of these: class E-,0,,14,2
+C95,article,5 (part),of these: class D,1,,4,2
+C95,article,5 (part),of these: class M,7,,8,2
+C95,article,5 (part),of these: class H,4,,16,2
+C95,article,set,genomes of the set C95,,471,,
+C95,pipeline,0,genomes of the outbreak set,,922,,
+C95,pipeline,1,collection date not given to the day,12,910,12,0
+C95,pipeline,2,called fraction below threshold,380,530,384,0
+C95,pipeline,3,"class E, E-, D, M or H",19,511,74,2
+C95,pipeline,4,"shares a sample identifier (discordant record, or concordant and more complete record)",38,473,67,0
+C95,pipeline,5,restricted use (record of another group),2,471,2,0
+C95,pipeline,set,genomes of the set C95,,471,,
+C90,article,0,genomes of the outbreak set,,922,,
+C90,article,1,no collection date to the day,12,910,12,0
+C90,article,2,called fraction below the threshold,187,723,189,0
+C90,article,3,"shares a sample identifier with a record that differs, or with a concordant record that is more complete",48,675,67,0
+C90,article,3 (part),of these: with a record that differs (both records are left out),46,,62,0
+C90,article,3 (part),of these: with a concordant record that is more complete (the less complete record is left out),2,,5,0
+C90,article,4,restricted use (record of another group),2,673,2,0
+C90,article,5,"did not pass the quality checks (class E, E-, D, M or H)",32,641,74,2
+C90,article,5 (part),of these: class E,10,,32,2
+C90,article,5 (part),of these: class E-,1,,14,2
+C90,article,5 (part),of these: class D,2,,4,2
+C90,article,5 (part),of these: class M,8,,8,2
+C90,article,5 (part),of these: class H,11,,16,2
+C90,article,set,genomes of the set C90,,641,,
+C90,pipeline,0,genomes of the outbreak set,,922,,
+C90,pipeline,1,collection date not given to the day,12,910,12,0
+C90,pipeline,2,called fraction below threshold,187,723,189,0
+C90,pipeline,3,"class E, E-, D, M or H",37,686,74,2
+C90,pipeline,4,"shares a sample identifier (discordant record, or concordant and more complete record)",43,643,67,0
+C90,pipeline,5,restricted use (record of another group),2,641,2,0
+C90,pipeline,set,genomes of the set C90,,641,,
+C80,article,0,genomes of the outbreak set,,922,,
+C80,article,1,no collection date to the day,12,910,12,0
+C80,article,2,called fraction below the threshold,9,901,10,0
+C80,article,3,"shares a sample identifier with a record that differs, or with a concordant record that is more complete",65,836,67,0
+C80,article,3 (part),of these: with a record that differs (both records are left out),61,,62,0
+C80,article,3 (part),of these: with a concordant record that is more complete (the less complete record is left out),4,,5,0
+C80,article,4,restricted use (record of another group),2,834,2,0
+C80,article,5,"did not pass the quality checks (class E, E-, D, M or H)",65,769,74,2
+C80,article,5 (part),of these: class E,29,,32,2
+C80,article,5 (part),of these: class E-,11,,14,2
+C80,article,5 (part),of these: class D,3,,4,2
+C80,article,5 (part),of these: class M,8,,8,2
+C80,article,5 (part),of these: class H,14,,16,2
+C80,article,set,genomes of the set C80,,769,,
+C80,pipeline,0,genomes of the outbreak set,,922,,
+C80,pipeline,1,collection date not given to the day,12,910,12,0
+C80,pipeline,2,called fraction below threshold,9,901,10,0
+C80,pipeline,3,"class E, E-, D, M or H",73,828,74,2
+C80,pipeline,4,"shares a sample identifier (discordant record, or concordant and more complete record)",57,771,67,0
+C80,pipeline,5,restricted use (record of another group),2,769,2,0
+C80,pipeline,set,genomes of the set C80,,769,,
+C00,article,0,genomes of the outbreak set,,922,,
+C00,article,1,no collection date to the day,12,910,12,0
+C00,article,2,called fraction below the threshold,0,910,0,0
+C00,article,3,"shares a sample identifier with a record that differs, or with a concordant record that is more complete",67,843,67,0
+C00,article,3 (part),of these: with a record that differs (both records are left out),62,,62,0
+C00,article,3 (part),of these: with a concordant record that is more complete (the less complete record is left out),5,,5,0
+C00,article,4,restricted use (record of another group),2,841,2,0
+C00,article,5,"did not pass the quality checks (class E, E-, D, M or H)",66,775,74,2
+C00,article,5 (part),of these: class E,29,,32,2
+C00,article,5 (part),of these: class E-,12,,14,2
+C00,article,5 (part),of these: class D,3,,4,2
+C00,article,5 (part),of these: class M,8,,8,2
+C00,article,5 (part),of these: class H,14,,16,2
+C00,article,set,genomes of the set C00,,775,,
+C00,pipeline,0,genomes of the outbreak set,,922,,
+C00,pipeline,1,collection date not given to the day,12,910,12,0
+C00,pipeline,2,called fraction below threshold,0,910,0,0
+C00,pipeline,3,"class E, E-, D, M or H",74,836,74,2
+C00,pipeline,4,"shares a sample identifier (discordant record, or concordant and more complete record)",59,777,67,0
+C00,pipeline,5,restricted use (record of another group),2,775,2,0
+C00,pipeline,set,genomes of the set C00,,775,,

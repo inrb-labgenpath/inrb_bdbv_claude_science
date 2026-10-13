@@ -1,0 +1,16 @@
+JAVA_TOOL_OPTIONS=-XX:ParallelGCThreads=2 -XX:ConcGCThreads=1; PATH begins with PATH_OF_THE_BEAST_X_ENVIRONMENT/bin; directory runs/beast_B_C00/beast_B_C00_s74005
+attempt 1 (label 20261007); started by the queue runner (sched/update_scheduler.py) from state 0 (no -load_state, no -force_resume)
+launcher found on PATH: PATH_OF_THE_BEAST_X_ENVIRONMENT/bin/beast
+OMP_NUM_THREADS: unset
+LD_LIBRARY_PATH: (not set)
+XML read by the command: beastB_skyest_C00_20261007.xml, SHA-256 5ede797bc5c3c07b931344915db32ee8df387a2994c71b116b9d8fb72547002b (equal to the recorded one)
+program environment, recorded 2026-10-08T06:04:40Z before the start of the chains
+conda environment: beast (PATH_OF_THE_BEAST_X_ENVIRONMENT -> REAL_PATH_OF_THE_BEAST_X_ENVIRONMENT); last transaction of the environment (conda-meta/history): ==> 2026-09-01 15:44:08 <==
+packages: beagle-lib-4.0.1-h9948957_3 beast-10.5.0-hdfd78af_0 openjdk-25.0.2-ha668962_0
+launcher: PATH_OF_THE_BEAST_X_ENVIRONMENT/bin/beast, SHA-256 270d2a94a3b9dfb304629c28bc822b361ae10a06ab3831687275a28a5b467582 (starts java -Xms64m -Xmx2048m ... dr.app.beast.BeastMain)
+lib/beast.jar: SHA-256 df11dea1d7118ff1570ad687621912b776fb683c5023333f3dbf2bc762ee136d
+lib/libhmsbeagle.so.1: SHA-256 48699dc306b627d3c43ea980ed8b310e0e59d1567294944c93ecb1a0f5491076
+lib/libhmsbeagle-jni.so: SHA-256 0ad9956b45b57f9a479b1dcf279daf66888e35e029b0ff0d1829fcfe28ce15da
+lib/libhmsbeagle-cpu.so.40.0.0: SHA-256 2b0ad5e6660b8d0ca87af075654682d1dfc2ae746148846c5104352da2283b1d
+lib/libhmsbeagle-cpu-sse.so.40.0.0: SHA-256 f5a09720c7c10c9886016afada0267f850281a8b3d2c45f9b17722d11857a75a
+java: REAL_PATH_OF_THE_BEAST_X_ENVIRONMENT/lib/jvm/bin/java; openjdk version "25.0.2-internal" 2026-01-20;OpenJDK Runtime Environment (build 25.0.2-internal-adhoc.conda.src);OpenJDK 64-Bit Server VM (build 25.0.2-internal-adhoc.conda.src, mixed mode, sharing)

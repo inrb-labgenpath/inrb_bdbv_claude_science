@@ -1,0 +1,16 @@
+{
+ "SUFFIX": "_20261007",
+ "TABLE_OF_INPUTS": "INTERNAL_main_figures_inputs_20261007.csv",
+ "PERIODS_OF_THE_NAMES": "periods_round_20261002.csv",
+ "CASES_README": "",
+ "PERIODS": "periods_of_the_update_20261007.csv",
+ "ENDS_BY_SET": "ends_by_set_20261007.csv",
+ "CASES": "weekly_confirmed_cases_by_province_20261007.csv",
+ "T_GT": "generation_times_sensitivity_20261007.csv",
+ "T_PRIOR": "prior_alone_sensitivity_20261007.csv",
+ "T_PERIODS1": "primary_periods_of_table_1_sensitivity_20261007.csv",
+ "T_PAIRS": "primary_pairs_sensitivity_20261007.csv",
+ "T_INTERVALS_S": "primary_intervals_sensitivity_20261007.csv",
+ "T_LAST": "primary_last_periods_of_other_analyses_sensitivity_20261007.csv",
+ "COMPARISON_OF_THE_PRIOR_ALONE": "comparison of 8 October 2026"
+}

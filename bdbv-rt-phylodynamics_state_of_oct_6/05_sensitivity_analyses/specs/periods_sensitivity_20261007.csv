@@ -1,0 +1,9 @@
+period,start,end,end_if_it_does_not_lie_beyond_END,smallest_length_days,label_in_the_table_of_the_periods_of_the_update,rule_in_the_table_of_the_periods_of_the_update,end_in_the_table_of_the_periods_of_the_update
+P1,2026-03-01,2026-05-15,,,P1,fixed dates,2026-05-15
+P2,2026-05-15,2026-06-15,,,P2,fixed dates,2026-06-15
+P3,2026-06-15,END,,,P3 (own end),END is the mid-point of the most recent Skygrid interval of the set and grid of the analysis,END of the set and grid of the analysis
+P4,2026-06-15,2026-08-15,,,P4,fixed dates,2026-08-15
+P5,2026-06-15,2026-08-01,,,P5,fixed dates,2026-08-01
+P6,2026-08-01,END,2026-09-01,,P6 (own end),where END lies on or before 1 August the period has no length and is not evaluated,2026-09-01 if 1 September 2026 does not lie beyond END; otherwise END
+P6_to_END,2026-08-01,END,,,P6_to_END (defined on 7 October 2026 after the collection dates of the new snapshot were seen and before any estimate),"a quantity of its own, computed in every analysis in which P6 ends on 1 September; whether the post states it is the authors' decision",own END
+P7,2026-09-01,END,,14,P7,evaluated only if it is at least 14 days long; its length is stated for every analysis,END

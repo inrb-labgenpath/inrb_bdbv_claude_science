@@ -1,0 +1,11 @@
+period,start,end,rule,in_the_four_sets_of_this_round
+P1,2026-03-01,2026-05-15,fixed dates,2026-03-01 to 2026-05-15
+P2,2026-05-15,2026-06-15,fixed dates,2026-05-15 to 2026-06-15
+P3 (own end),2026-06-15,END of the set and grid of the analysis,END is the mid-point of the most recent Skygrid interval of the set and grid of the analysis,2026-06-15 to 2026-09-04
+P3 (common end),2026-06-15,the earliest of the own ends of the four sets,"computed for the analyses on the four sets and for BEAST X, beside the own end",2026-06-15 to 2026-09-04 (the four own ends are the same date)
+P4,2026-06-15,2026-08-15,fixed dates,2026-06-15 to 2026-08-15
+P5,2026-06-15,2026-08-01,fixed dates,2026-06-15 to 2026-08-01
+P6 (own end),2026-08-01,2026-09-01 if 1 September 2026 does not lie beyond END; otherwise END,where END lies on or before 1 August the period has no length and is not evaluated,2026-08-01 to 2026-09-01
+P6 (common end),2026-08-01,the same rule read with the common end,"computed for the analyses on the four sets and for BEAST X, beside the own end",2026-08-01 to 2026-09-01
+P7,2026-09-01,END,evaluated only if it is at least 14 days long; its length is stated for every analysis,"2026-09-01 to 2026-09-04, 3 days: not evaluated"
+P6_to_END (defined on 7 October 2026 after the collection dates of the new snapshot were seen and before any estimate),2026-08-01,own END,"a quantity of its own, computed in every analysis in which P6 ends on 1 September; whether the post states it is the authors' decision",2026-08-01 to 2026-09-04
