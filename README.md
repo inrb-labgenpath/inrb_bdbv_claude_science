@@ -1,4 +1,4 @@
-# Bundibugyo Virus Genomic Epidemiological Analysis
+# Bundibugyo Virus Phylodynamic Analysis
 
 > A joint analysis project of the **Institut National de Recherche Biomédicale (INRB)**,Kinshasa, DRC, and **Africa CDC**.
 > Computational analysis was carried out with the assistance of **Claude Science** (Anthropic),
